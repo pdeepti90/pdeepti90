@@ -3,7 +3,7 @@ Hi there 👋 . Call me Deepti .
 I am a software engineer, like to learn and experiment new things . Loves family, friends , Dogs and Cats.
 
 Languages and Tools I work with -
-Java, Javascript, React js, HTML, CSS, JQuery, Bootstrap, Oracle, MySQL, Git, Eclipse
+Java, Javascript, React js, HTML, CSS, JQuery, Bootstrap, Oracle, MySQL, Git, Eclipse, IntellijIdea
 
 
 - 👀 I’m interested in learning and experimenting on new things
